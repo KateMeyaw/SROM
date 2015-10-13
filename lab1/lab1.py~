@@ -211,7 +211,7 @@ def long_power(a, b):
     return c
 
 
-#my new changes to push to github/KateMeyaw
+
 
 #convert_hex_to_int('FFFFFFFE00000001')
 #convert_int_to_hex([2271560481, 19088743])
